@@ -1,10 +1,12 @@
 {
   "name": "ts-course-proj1-starter",
   "version": "1.0.0",
+  "homepage": "https://vadimfront.github.io/ts-course-proj1-starter",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "tsc --watch",
+    "deploy": "gh-pages -d public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +21,7 @@
   },
   "homepage": "https://github.com/vadimfront/ts-course-proj1-starter#readme",
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "typescript": "^5.1.6"
   }
 }
