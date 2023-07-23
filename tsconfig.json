@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES5" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+    "lib": ["DOM", "ES2015", "ES2016", "ES2017"],
+    "outDir": "./",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["src"]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ts-course-proj1-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimfront/ts-course-proj1-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadimfront/ts-course-proj1-starter/issues"
+  },
+  "homepage": "https://github.com/vadimfront/ts-course-proj1-starter#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
